@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="main_start_voice">Start</string>
+    <string name="main_stop_voice">Stop</string>
+    <string name="open_api_keys">API Keys</string>
+</resources>
