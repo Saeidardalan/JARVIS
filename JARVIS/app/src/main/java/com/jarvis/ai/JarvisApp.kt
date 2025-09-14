@@ -8,9 +8,8 @@ class JarvisApp : Application(), Configuration.Provider {
         super.onCreate()
     }
 
-    override fun getWorkManagerConfiguration(): Configuration {
-        return Configuration.Builder()
+    override val workManagerConfiguration: Configuration
+        get() = Configuration.Builder()
             .setMinimumLoggingLevel(android.util.Log.INFO)
             .build()
-    }
 }

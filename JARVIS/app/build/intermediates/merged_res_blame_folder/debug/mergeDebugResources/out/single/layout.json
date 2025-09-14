@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.jarvis.ai.app-mergeDebugResources-64:/layout/activity_api_key_manager.xml",
+        "source": "com.jarvis.ai.app-main-67:/layout/activity_api_key_manager.xml"
+    },
+    {
+        "merged": "com.jarvis.ai.app-mergeDebugResources-64:/layout/activity_main.xml",
+        "source": "com.jarvis.ai.app-main-67:/layout/activity_main.xml"
+    }
+]
