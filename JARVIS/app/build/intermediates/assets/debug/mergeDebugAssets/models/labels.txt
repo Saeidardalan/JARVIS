@@ -1,0 +1,9 @@
+background
+person
+animal
+plant
+product
+artwork
+food
+text
+qr_barcode
